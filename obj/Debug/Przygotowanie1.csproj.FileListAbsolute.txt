@@ -1,0 +1,6 @@
+C:\Users\bialy\Desktop\Nowy folder\Przygotowanie1\Przygotowanie1\bin\Debug\Przygotowanie1.exe.config
+C:\Users\bialy\Desktop\Nowy folder\Przygotowanie1\Przygotowanie1\bin\Debug\Przygotowanie1.exe
+C:\Users\bialy\Desktop\Nowy folder\Przygotowanie1\Przygotowanie1\bin\Debug\Przygotowanie1.pdb
+C:\Users\bialy\Desktop\Nowy folder\Przygotowanie1\Przygotowanie1\obj\Debug\Przygotowanie1.csprojResolveAssemblyReference.cache
+C:\Users\bialy\Desktop\Nowy folder\Przygotowanie1\Przygotowanie1\obj\Debug\Przygotowanie1.exe
+C:\Users\bialy\Desktop\Nowy folder\Przygotowanie1\Przygotowanie1\obj\Debug\Przygotowanie1.pdb
